@@ -50,6 +50,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
 - [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
 - [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
+- [App Store Localizer](https://asolocalization.com) - Localize iOS App Store listings from a public store URL: translated metadata plus re-rendered screenshots across 30+ locales.
 
 ## Apps
 
